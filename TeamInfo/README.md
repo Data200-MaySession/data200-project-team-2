@@ -3,11 +3,11 @@
 ## Team Information
 
 ### Team Name
-*Replace this with your team name*
+Team 2
 
 ### Team Members
-1. *Member 1 Name (GitHub Username)*
-2. *Member 2 Name (GitHub Username)*
+1. Prabhat Baniya (PrabhatBaniya)
+2. Charu Shrestha (charu5056)
 3. *Member 3 Name (GitHub Username)*
 
 ### Task Division
