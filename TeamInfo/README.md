@@ -8,7 +8,7 @@ Team 2
 ### Team Members
 1. Prabhat Baniya (PrabhatBaniya)
 2. Charu Shrestha (charu5056)
-3. *Member 3 Name (GitHub Username)*
+3. Upendra Karki (u-droid123)
 
 ### Task Division
 - **Member 1**: *Describe tasks assigned (e.g., data analysis and EDA)*
